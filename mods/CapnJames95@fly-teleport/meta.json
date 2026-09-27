@@ -1,0 +1,24 @@
+{
+  "id": "fly-teleport",
+  "title": "Fly Teleport",
+  "author": "CapnJames95",
+  "version": "0.2.0",
+  "summary": "Teleport to all 20 Fly destinations; optional Dual Screen Home tile.",
+  "categories": [
+    "TOOL"
+  ],
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/fly-teleport-0.2.0.zip",
+  "automatic_version_check": false,
+  "experimental": true,
+  "api": 2,
+  "profile": "overhaul",
+  "permissions": [
+    "engine_internals"
+  ],
+  "game_version": ">=0.3.21 <0.4.0"
+}

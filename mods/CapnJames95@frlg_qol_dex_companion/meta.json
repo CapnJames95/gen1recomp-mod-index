@@ -1,0 +1,24 @@
+{
+  "id": "frlg_qol_dex_companion",
+  "title": "Dex Companion",
+  "author": "CapnJames95",
+  "version": "0.1.1",
+  "summary": "Browse caught status, evolution information and encounter details.",
+  "categories": [
+    "QOL",
+    "TOOL"
+  ],
+  "tags": [
+    "firered",
+    "leafgreen"
+  ],
+  "repo": "https://github.com/CapnJames95/gen1recomp-mod-releases",
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/frlg_qol_dex_companion-0.1.1.zip",
+  "automatic_version_check": false,
+  "experimental": true,
+  "api": 2,
+  "profile": "overhaul",
+  "permissions": [
+    "engine_internals"
+  ]
+}
