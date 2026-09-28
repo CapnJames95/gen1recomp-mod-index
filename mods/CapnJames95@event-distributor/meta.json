@@ -2,7 +2,7 @@
   "id": "event-distributor",
   "title": "Event Distributions",
   "author": "CapnJames95",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "categories": [
     "TOOL"
   ],
@@ -12,7 +12,7 @@
     "firered",
     "leafgreen"
   ],
-  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.0.0/event-distributor-1.2.0.zip",
+  "downloadURL": "https://github.com/CapnJames95/gen1recomp-mod-releases/releases/download/v1.1.0/event-distributor-1.3.0.zip",
   "game_version": ">=0.0.0-0 <2.0.0",
   "permissions": [
     "engine_internals"
