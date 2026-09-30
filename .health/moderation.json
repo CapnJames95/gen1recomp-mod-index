@@ -32,8 +32,8 @@
       "reason": "Previously quarantined entry requires explicit approval of this artifact"
     },
     "mods/Roxas2712@kanto_ascendant": {
-      "sha256": "d70ad88af98ed49cfb00657cadede65dfffdbd097fab3921ed163ac80e9e8e0f",
-      "version": "6.7.28",
+      "sha256": "c2c11682a8ece730e66520b9a78d5bc72fa890141488cd59be578f1a1e635c7e",
+      "version": "6.7.29",
       "reason": "Previously quarantined entry requires explicit approval of this artifact"
     }
   },
